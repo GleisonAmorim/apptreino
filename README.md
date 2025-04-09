@@ -10,7 +10,7 @@ Este é um sistema web desenvolvido para auxiliar no controle de treinos persona
 - **JavaScript**
 - **Bootstrap**
 - **SQLite**
-- **Railway (Deploy)**
+- **pella (Deploy)**
 
 ## 🎯 Funcionalidades
 
